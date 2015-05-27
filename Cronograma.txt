@@ -1,0 +1,7 @@
+1) Revisar JSTL (i18n)  manejo de Idiomas
+2) Prototipos en JSP y el modelo de datos(Diagrama)
+---> Próxima Clase
+
+3)Para el avance el 70%(Seguridad, CRUD, Consulta, Transacciones(50%))-->24 de JUNIO
+
+4) Avance al 100% -->15 Julio
